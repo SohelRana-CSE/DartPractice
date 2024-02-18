@@ -1,4 +1,4 @@
-import 'package:problem_solving/problem_solving.dart';
+import 'package:problem_solving/src/problem_solving.dart';
 
 void main() {
   var awesome = Awesome();

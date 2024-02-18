@@ -1,4 +1,4 @@
-import 'package:problem_solving/problem_solving.dart';
+import 'package:problem_solving/src/problem_solving.dart';
 import 'package:test/test.dart';
 
 void main() {

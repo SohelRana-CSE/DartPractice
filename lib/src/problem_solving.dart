@@ -3,6 +3,6 @@
 /// More dartdocs go here.
 library;
 
-export 'src/problem_solving_base.dart';
+export 'problem_solving_base.dart';
 
 // TODO: Export any libraries intended for clients of this package.
